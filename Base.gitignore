@@ -6,5 +6,5 @@
 # Ignore all file and directory names that start with a dot.
 **/.*
 
-# DO NOT ignore all *.gitignore files.
-!**/*.gitignore
+# DO NOT ignore all *.git* files.
+!**/*.git*
